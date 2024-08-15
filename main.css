@@ -1,0 +1,83 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    font-size: 15px;
+    
+}
+
+th,td{
+    border: 1px solid rgb(255, 255, 255);
+   height: 90%;
+
+}
+
+
+h1{
+    border-radius: 20px;
+    border: solid red 2px;
+    text-align: center;
+    background-color: rgb(153, 229, 246);
+    font-size: 15px;
+}
+
+span{
+    background-color: yellow;
+}
+
+
+.tesla{
+ color: brown;
+ background-color: white;
+}
+
+.ul21{
+    color: green;
+}
+
+.y1{
+    color: rgb(255, 0, 0);
+}
+
+.y4{
+color: yellow;
+}
+
+.e2{
+    color: rgba(128, 47, 0, 0.432);
+}
+
+
+
+
+.frad{
+   background-color: yellow; 
+   text-align: center;
+}
+
+
+th{
+    background-color: red;
+}
+
+.tie{
+    background-color: green;
+}
+
+
+
+.tfs{
+    background-color: blueviolet;
+}
+
+button{
+    background-color: green;
+    border-radius: 20px;
+    width: 25%;
+}
+
+img{
+    width: 30%;
+    height: 30%;
+}
